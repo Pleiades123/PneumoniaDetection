@@ -1,5 +1,5 @@
 # PneumoniaDetection
-Pneumonia Detection using CNN and VGG16 on kaggle datasets
+Pneumonia Detection using CNN and VGG16 on kaggle datasets (DL，CNN，transfer learning，classification，keras)
 
 ### Context
 http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
